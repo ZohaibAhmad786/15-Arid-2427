@@ -1,0 +1,19 @@
+3rd Assingment Called Simulation
+
+Assignment 3 based to 2 Assingments
+
+3.1(Assignment):
+
+-Contains Three DataBanks which hold Same Data.
+-All Three databanks are started parallel.
+-User send Number to all three databanks and wait unless al databanks Finish Their Jobs.
+-If data Found in Databanks Data Will b Displayed Otherwise Not.
+
+3.2(Assignment):
+
+-Contains Three DataBanks which hold Different Data or maybe contains a little bit same data.
+-All Thress Databanks Are Started Parallel.
+-User send Number to all three databanks and wait for untile  anyone  Find First that number(Means Find First and Finish Job).
+-If data Found in Databanks Data Will b Displayed Otherwise Not.
+
+ 

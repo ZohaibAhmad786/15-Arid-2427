@@ -1,0 +1,1 @@
+Gerating Random number and displaying on consol.

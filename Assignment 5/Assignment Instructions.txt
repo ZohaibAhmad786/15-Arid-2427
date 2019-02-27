@@ -1,0 +1,22 @@
+Assignment 4 Server Client TCP Mode.
+
+Assignment 4 Based on 3 Assignment.
+
+4.1(Assignment):
+-Their is a Connection "Pool Mechanism" Only "10" User can connect With server.
+-if 11th client is requesting to server for connection his request will be pending untile someone Disconnect from server.
+-then server accpet the request of pending Client Request.
+
+(In my Scenario i make connection pool for only 2 client if you want to increase connection just 
+=> go to SERVERTCP Project 
+=> Open Form1.cs 
+=> Increase Number of Counters Here "public static int counter = 2")
+
+4.2(Assignment): BroadCast Message
+-Server Broadcast Message to all connected Client.
+(For Example: server is Shutting Down in Next 5 minutes etc....)
+
+4.3(Assignmet):Maintain Clients Log
+-maintains the client information. 
+-Client IP+Port#,Server IP+Port#.
+-Client Connection "Establishment Time" and Connection "Disconnection Time".
